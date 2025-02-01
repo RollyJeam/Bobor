@@ -1,0 +1,35 @@
+{
+  "careerVision": "I am seeking employment with a dynamic and forward-thinking company where I can leverage my talents and skills to drive growth and innovation.",
+  "personalProfile": {
+    "Name": "NEIL PATRICK ABLEN",
+    "AGE" : 27,
+    "DateOfBirth": "DECEMBER 29, 1997",
+    "PlaceOfBirth": "ORMOC CITY, LEYTE",
+    "CivilStatus": "SINGLE",
+    "LanguagesSpoken": "ENGLISH, TAGALOG, CEBUANO",
+    "Height" : "5'4",
+    "Weight": "79 kg",
+    "Nationality": "FILIPINO"
+  },
+  "academicAttainments": {
+    "Secondary": "New Ormoc City National High School (Undergraduate)",
+    "Elementary": "RUFINA M. TAN ELEMENTARY SCHOOL"
+  },
+  "experience": [
+    { "title": "DRIVER", "company": "ABLEN METAL ENTERPRISES", "year": "2018-2021"},
+    { "title": "PRIVATE DRIVER", "company": "NICOLAS ANTHONY YCOY", "year": "2021-2023" }
+
+  ],
+  "skills": [
+    "Hardworking",
+    "Basic knowledge of vehicles ",
+    "Highly oraganized and dedicated with possitve attitude",
+    "Able to work in a flexible work schedule",
+    "Knows how to fix minor difficulties on vehicle ",
+    "Enjoys sharing knowledge and encouraging development in others"
+  ],
+  "characterReference": [
+    { "name": "NICOLAS ANTHONY YCOY", "position": "Employer","contact": "0968 865 8538", "location": "Brgy. Tambulilid, Ormoc City" },
+    { "name": "SALVACION ABLEN", "position": "Proprietor/Owner Ablen Metal Enterprises", "contact": "0961 516 2346", "location": "Hermosilla Drive, Ormoc City Leyte" }
+  ]
+}
