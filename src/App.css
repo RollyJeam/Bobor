@@ -7,7 +7,12 @@ body {
   padding: 0;
   font-family: 'Roboto';;
 }
-
+.Print{
+  display: flex;
+  margin-left: auto ;
+  color: white;
+  font-size: small;
+}
 .flex-all {
   display: flex;
   flex-direction: column;

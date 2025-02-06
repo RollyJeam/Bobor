@@ -1,12 +1,14 @@
 import './App.css';
 import ToggleSection from './ToggleSection';
 import resumeData from './data/data.json';
-import neilPic from './images/neil.jpg'
+import neilPic from './images/neil.jpg';
+import OpenPDF from './Pdf.tsx';
 
 
 const App = () => {
   return (
     <div className="flex-all">
+       <div className='Print'><OpenPDF>Print Resume</OpenPDF></div>
       <div className="container">
         <h1>NEIL PATRICK ABLEN</h1>
         <div className="profile-image">
